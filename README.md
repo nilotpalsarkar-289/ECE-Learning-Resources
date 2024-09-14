@@ -11,6 +11,7 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - **Control Systems**
 - **Communications**
 - **Digital Communications**
+- **Information Theory and Coding**
 - **Electromagnetics**
 
 
