@@ -8,11 +8,15 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - **Signals & Systems**
 - **Electronic Devices**
 - **Analog & Digital Circuits**
+- **Microprocessors & Microcontrollers**
 - **Control Systems**
 - **Communications**
 - **Digital Communications**
 - **Information Theory and Coding**
 - **Electromagnetics**
+- **Computer Networks**
+- **Machine Learning**
+
 
 
 ## 🔧 What You'll Find:
