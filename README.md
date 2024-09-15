@@ -7,13 +7,13 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - **Network Theory [NT]**
 - **Signals & Systems [SS]**
 - **Electronic Devices [ED]**
-- **Analog & Digital Circuits [ADC]**
+- **Analog & Digital Circuits [AD_Cir]**
 - **Microprocessors & Microcontrollers [MICRO]**
 - **Control Systems [CS]**
 - **Communications [Commn]**
 - **Digital Communications [Digi Commn]**
 - **Information Theory and Coding [ITC]**
-- **Electromagnetics [EM]**
+- **Electromagnetics [E_Mag]**
 - **Computer Networks [CN]**
 - **Machine Learning [ML]**
 
