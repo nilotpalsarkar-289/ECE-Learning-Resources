@@ -23,6 +23,10 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - Video tutorials and courses
 - Reference books & Notes/Slides
 
+## Contact:
+- Author: Nilotpal Sarkar (IIIT Kalyani)
+- All the above information and links are correct to the best of my knowledge, for any further issue or discrepancy reach out via [nilotpalsarkar289@gmail.com]
+
 
 ---
 
