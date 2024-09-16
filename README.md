@@ -14,7 +14,7 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - **Information Theory and Coding [ITC]**
 - **Electromagnetics [E_Mag]**
 - **Computer Networks [CN]**
-- **Machine Learning [ML]**
+- **Artificial Intelligence & Machine Learning [AI_ML]**
 
 
 
