@@ -11,7 +11,6 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 - **Microprocessors & Microcontrollers [MICRO]**
 - **Control Systems [CS]**
 - **Communications [Commn]**
-- **Digital Communications [Digi Commn]**
 - **Information Theory and Coding [ITC]**
 - **Electromagnetics [E_Mag]**
 - **Computer Networks [CN]**
