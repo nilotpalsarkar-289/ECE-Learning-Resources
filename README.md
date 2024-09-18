@@ -1,6 +1,6 @@
 # ECE-Learning-Resources
 
-Welcome to the **ECE Learning Resources** repository! This collection of resources is designed to assist students and professionals in learning the core subjects of Electronics and Communications Engineering (ECE). Whether you're preparing for exams, working on projects, or seeking to enhance your skills, this repository offers useful materials and tutorials.
+Welcome to the **ECE Learning Resources** repository! This collection of resources is designed to assist students and professionals to learn the core subjects of Electronics and Communications Engineering (ECE). Whether you're preparing for exams, working on projects, or seeking to enhance your skills, this repository offers useful materials and tutorials.
 
 ## 📚 Subjects Covered:
 - **Engineering Mathematics [EM]**
@@ -19,12 +19,13 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 
 
 ## 🔧 What You'll Find:
-- Video tutorials and courses
+- Online lectures and tutorials
 - Reference books & Notes/Slides
 
 ## Contact:
 - Author: Nilotpal Sarkar (IIIT Kalyani)
-- All the above information and links are correct to the best of my knowledge, for any further issue or discrepancy reach out via [nilotpalsarkar289@gmail.com]
+- Here's a modified version of your sentence:
+- All the information and resources provided in this repository are accurate to the best of my knowledge. For any issues or inquiries, feel free to reach out [nilotpalsarkar289@gmail.com]
 
 
 ---
