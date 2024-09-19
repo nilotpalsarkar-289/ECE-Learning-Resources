@@ -24,7 +24,6 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 
 ## Contact:
 - Author: Nilotpal Sarkar (IIIT Kalyani)
-- Here's a modified version of your sentence:
 - All the information and resources provided in this repository are accurate to the best of my knowledge. For any issues or inquiries, reach out [nilotpalsarkar289@gmail.com]
 
 
