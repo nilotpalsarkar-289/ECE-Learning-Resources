@@ -19,7 +19,7 @@ Welcome to the **ECE Learning Resources** repository! This collection of resourc
 
 
 ## 🔧 What You'll Find:
-- Online lectures and tutorials
+- Online lectures and Tutorials
 - Reference books & Notes/Slides
 
 ## Contact:
